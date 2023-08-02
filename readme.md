@@ -39,4 +39,4 @@ I am continuously working to improve this project and make it more useful. If yo
 This project is open-source and licensed under the MIT License. For more details, please see the "LICENSE" file.
 
 
-![Bardia](https://media.tenor.com/IPJEyzMdtX0AAAAd/if-you-cant-do-the-time-dont-do-crime.gif)
+![Bardia](https://media.tenor.com/IPJEyzMdtX0AAAAd/if-you-cant-do-the-time-dont-do-crime.gif)   
